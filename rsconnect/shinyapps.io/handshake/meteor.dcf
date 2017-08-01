@@ -1,0 +1,10 @@
+name: meteor
+title: meteoR
+account: handshake
+server: shinyapps.io
+appId: 201002
+bundleId: 922380
+url: https://handshake.shinyapps.io/meteor/
+when: 1501534176.81683
+asMultiple: FALSE
+asStatic: FALSE
